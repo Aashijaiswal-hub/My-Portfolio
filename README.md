@@ -40,8 +40,8 @@ This portfolio is not merely a gallery of links. [cite_start]It is a **Hybrid-Na
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
-    cd portfolio-2026
+    git clone https://github.com/Aashijaiswal-hub/My-Portfolio
+    cd My-Portfolio
     ```
 
 2.  **Install dependencies:**
